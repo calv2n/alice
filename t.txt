@@ -1,5 +1,10 @@
 this is my file
+<<<<<<< HEAD
 :) >:) HELLOO
+
+=======
+:( WOWI LOVE GIT SO MUCH
+>>>>>>> d08c971d85c4dd40fd9fb89c17f3daa4f00dba82
 
 
 adding a line to the file
